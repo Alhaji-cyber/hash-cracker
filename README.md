@@ -7,5 +7,6 @@ This Python script attempts to crack an **MD5 hash** using a dictionary attack. 
 ## 🚀 How to Use
 
 ```bash
-python3 hash_cracker.py -H 827ccb0eea8a706c4c34a16891f84e7b -w wordlist.txt
+python3 hash_cracker.py -H <md5_hash> -w <path_to_wordlist>
+
 
